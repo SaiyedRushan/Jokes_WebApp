@@ -1,4 +1,4 @@
-#JokesApp
+# JokesApp
 
 This is a simple and lightweight web application created using c# and ASP.NET core while following the MVC design pattern.
 The webpage displays a list of jokes created by registered users and users are able to create, read, update and delete the jokes created by them. There is also a search functionality where users can search up jokes by entering a joke phrase.
